@@ -139,6 +139,8 @@ PlayerSettings:
   bundleVersion: 0.1
   preloadedAssets:
   - {fileID: 11400000, guid: 4ca00f7d4eef14d93b905eff2e4d8ac8, type: 2}
+  - {fileID: 7826715172289454600, guid: ffd00c4a24ed54c1397209e42cee227d, type: 2}
+  - {fileID: 11400000, guid: 5ba77f33f982942e5b51a1310e804875, type: 2}
   metroInputSource: 0
   wsaTransparentSwapchain: 0
   m_HolographicPauseOnTrackingLoss: 1
@@ -158,7 +160,8 @@ PlayerSettings:
   resetResolutionOnWindowResize: 0
   androidSupportedAspectRatio: 1
   androidMaxAspectRatio: 2.1
-  applicationIdentifier: {}
+  applicationIdentifier:
+    Android: com.DefaultCompany.XmasParallel
   buildNumber:
     Standalone: 0
     VisionOS: 0

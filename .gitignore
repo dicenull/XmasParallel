@@ -80,3 +80,6 @@ crashlytics-build.properties
 /[Pp]ackages/*/
 !/[Pp]ackages/your embedded package to share with git/
 App_BurstDebugInformation_DoNotShip/tempburstlibs/arm64-v8a
+Assets/.DS_Store
+mono_crash.f49abaf2a.0.json
+.DS_Store
